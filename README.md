@@ -7,7 +7,7 @@ download_jnlp.py is python script for download ipmi consoles from supermicro/del
 You need python 3.10+ and requests library
 
 ```bash
-pip install requsts
+pip install requests
 ```
 
 ## Usage
